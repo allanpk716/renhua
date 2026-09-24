@@ -20,4 +20,6 @@ git clone https://github.com/allanpk716/renhua.git ~/.claude/skills/renhua
 /renhua on
 ```
 
-完事。遇到新的黑话，直接往 `jargon.md` 表里加一行。
+5. 想让**所有会话**默认说人话（不用每次喊）：把 [README](README.md)「常驻（可选）」节的片段贴进你的 `~/.claude/CLAUDE.md`。
+
+完事。遇到新的黑话，直接往 `jargon.md` 表里加一行。想让你的 AI 助手自己帮你装/配置：让它读 [AGENTS.md](AGENTS.md)。

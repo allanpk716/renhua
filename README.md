@@ -67,6 +67,8 @@ npx skills add allanpk716/renhua
 ```
 
 > 共存裁决经真实技能同开实验验证（Windows/Git Bash、i-have-adhd 纯技能形态、单轮采样、36 轮 headless；元问题条件下两模型裁决相反是成文必要性的直接证据）。本片段与实验所验全局块同属 CLAUDE.md 家族文件（每会话加载），由同类机制覆盖；跨环境/插件形态/长期稳定性未验证，日常使用中出问题欢迎提 issue。
+>
+> 想让你的 AI 助手自己帮你装/配置：让它读 [AGENTS.md](AGENTS.md)（给 agent 看的使用说明）。
 
 ## 核心规则（人话十条）
 
